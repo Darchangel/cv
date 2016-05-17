@@ -1,0 +1,151 @@
+{
+  "name": "Filipe Silva",
+
+ "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+      "label": "Senior Software Developer"
+  },
+
+  "contact": {
+      "phone": "+31 6 12 77 27 12",
+      "email": "filipe.av.silva@gmail.com"
+  },
+
+  "location": {
+      "city": "Rotterdam",
+      "country": "NL"
+  },
+
+  "employment": {
+      "history": [
+        {
+            "employer": "Coolblue",
+            "position": "Senior Software developer",
+            "summary": "DESCRIPTION TO ADD",
+            "start": "2015-06"
+        },
+        {
+            "employer": "Coolblue",
+            "position": "Software developer",
+            "summary": "DESCRIPTION TO ADD",
+            "start": "2014-01",
+            "end": "2015-05"
+        },
+
+        {
+            "employer": "Smartmove",
+            "position": "Software developer",
+            "summary": "Developed all layers of WCF web services (both SOAP and REST, in C#) and ASP.NET web apps (database- and service-backed, in C#, VB.NET and Javascript), with SQL Server for the data layer. Developed client-side, api-backed web applications in Javascript, using jQuery and AngularJS.",
+            "start": "2011-10",
+            "end": "2013-12"
+        },
+        {
+            "employer": "KPMG",
+            "position": "IT Advisor",
+            "summary": " Developed data-driven web apps in Outsystems, Javascript and SQL Server, as well as a complex ETL process in SQL Server and SQL Server Integration Service.",
+            "start": "2010-11",
+            "end": "2011-09"
+        },
+        {
+            "employer": "Darwin consulting",
+            "position": "Intern",
+            "summary": "Developed a web app in Java Enterprise edition and Oracle database.",
+            "start": "2009-02",
+            "end": "2009-05"
+        },
+        {
+            "employer": "Darwin consulting",
+            "position": "Intern",
+            "summary": "Performed network and systems administration.",
+            "start": "2009-06",
+            "end": "2009-07"
+        },
+        {
+            "employer": "Darwin consulting",
+            "position": "Intern",
+            "summary": "Developed a small web app in Outsystems and SQL Server.",
+            "start": "2008-07",
+            "end": "2008-08"
+        }
+      ]
+  },
+
+  "education": {
+      "history": [
+        {
+            "institution": "Instituto Superior Técnico",
+            "studyType": "MSc",
+            "title": "MSc in Information Systems and Computer Engineering",
+            "url": "https://www.ist.edu/",
+            "start": "2007",
+            "end": "2012",
+            "location": "Lisbon",
+            "highlights": [
+                "2007-2010: Courses",
+                "2008-2011: First thesis, cancelled by my own decision",
+                "2011-2012: Second thesis, finished"
+            ]
+        },
+        {
+            "institution": "Kungliga Tekniska Hogskolan (KTH)",
+            "title": "Erasmus",
+            "url": "http://www.kth.se/",
+            "start": "2008-08",
+            "end": "2008-12",
+            "location": "Stockholm"
+        },
+        {
+            "institution": "Instituto Superior Técnico",
+            "studyType": "BSc",
+            "title": "BSc in Information Systems and Computer Engineering",
+            "url": "https://www.ist.edu/",
+            "start": "2004",
+            "end": "2008",
+            "location": "Lisbon"
+        }
+      ]
+  },
+
+  "extracurricular": [
+    {
+        "activity": "Participated in Sapo Codebits, a technology conference focused on programming including talks, workshops and a 48-hour programming contest",
+        "location": "Lisbon",
+        "start": "2011-11"
+    },
+    {
+        "activity": "Participated in Sapo Codebits, a technology conference focused on programming including talks, workshops and a 48-hour programming contest",
+        "location": "Lisbon",
+        "start": "2012-11"
+    },
+    {
+        "title": "Organizer",
+        "activity": "XVII Semana Informática (Informatics week) of Instituto Superior Técnico",
+        "location": "Lisbon",
+        "start": "2009-09",
+        "end": "2010-03"
+    }
+  ],
+
+  "languages": [
+      {
+          "language": "Portuguese",
+          "level": "Native"
+      },
+      {
+          "language": "English",
+          "level": "Fluent in both writing in speaking"
+      },
+      {
+          "language": "Dutch",
+          "level": "European Language Level B1"
+      },
+      {
+          "language": "Spanish",
+          "level": "Basic, self-taught"
+      }
+  ]
+}
